@@ -31,3 +31,8 @@ Tecnologias Utilizadas:
 ## Link Surge
 [LabeSatélites](http://labesatelites-grupo10.surge.sh/)
 
+## Devs
+- Pedro Rodrigues - @IELSK
+- Renato Marinho - @renatomarinhofr
+- Silas Paixão - @SilasPaixao
+- Silvio Diaz - @SilvioDiaz
